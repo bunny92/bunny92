@@ -93,28 +93,6 @@ I enjoy sharing knowledge through technical content creation on YouTube, Medium,
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bunny92&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunny92&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bunny92&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bunny92&theme=onedark&row=1&column=7" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/venkatesh-g-s-s-a7648899
